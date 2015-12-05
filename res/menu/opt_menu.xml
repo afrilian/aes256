@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:id="@+id/tentang"
+	android:icon="@drawable/tentang"
+	android:title="Tentang AES" />
+	
+	<item android:id="@+id/keluar"
+	android:icon="@drawable/keluar"
+	android:title="Keluar" />
+	
+    <item android:id="@+id/opt1"
+	android:icon="@drawable/proses"
+	android:title="128 bit" />
+	
+	<item android:id="@+id/opt2"
+	android:icon="@drawable/proses"
+	android:title="192 bit" />
+	
+	<item android:id="@+id/opt3"
+	android:icon="@drawable/proses"
+	android:title="256 bit" />
+</menu>
